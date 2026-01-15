@@ -1,0 +1,46 @@
+DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    #code{
+        margin: 80px;
+        height: 200px;
+        width: 500px;
+        display: flex;
+        background-color: burlywood;
+    }
+    .box{
+        height: 150px;
+        width: 150px;
+        border: 2px solid black;
+        transition: 0.5s;
+        }
+    .purple{background-color: purple;}
+    .gray{background-color: gray;}
+    .pink{background-color: pink;}
+    
+    .purple:hover,
+    .gray:hover,
+    .pink:hover{
+        border-radius: 50%;
+        border: 2px dotted blue;
+        transform: scale(1.2);    
+    }
+    .gray:hover{
+        box-shadow: 5px 20px red,-5px -10px 5px yellow;
+    }
+
+</style>
+<body>
+    <div id="code">
+        <div class="box purple"></div>
+        <div class="box gray"></div>
+        <div class="box pink"></div>
+    </div>
+    
+</body>
+</html>
