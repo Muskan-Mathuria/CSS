@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div style="height: 20px; background: linear-gradient( to right,rgb(35, 70, 165) ,rgb(225, 0, 255));"><center> 😊WELCOME☆*: .｡. o(≧▽≦)o .｡.:*☆</center></div>
+    <HR color="black">
+    <div style="height: 50px; background: linear-gradient(to left,pink,purple);"><center>#NEW STYLE#</center></div>
+    <hr color="purple">
+    <div style="height: 120px; background: linear-gradient(20deg, blue,rgb(196, 9, 168),darkred);"><center><h1>*BE CREATIVE*</h1></center> </div>
+    <HR COLOR="darkred">
+    <div style="height: 150px; background: radial-gradient(circle,rgb(22, 168, 39),rgb(166, 27, 27));"><center><h1>"BE POSTIVE"</h1></center></centr></div>
+    <hr color="green">
+    <div style="height:50px; background: radial-gradient(ellipse,rgb(23, 23, 101),rgb(58, 144, 219),rgb(6, 10, 128));"><center><h1>#END#</h1></center></div>
+</body>
+</html>
