@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+ <marquee bgcolor="#5D6B6B"  behavior="alternate" direction="left"> <FONT SIZE="20PX">USEFUL WEBSITES</marquee> 
+<marquee  BGCOLOR="PINK" behavior="" direction="RIGHT"> <FONT SIZE=""15PX >HEY!!WELCOME TO OUR WEBSITE...
+</marquee>
+<style>
+
+    #SM1{
+        display: flex;
+        gap: 30PX;
+        border: 4px solid pink;
+    }
+
+    #SM2{
+        display: flex;
+        gap: 30PX;
+        border: 4px solid pink;
+    }
+
+    #SM3{
+        display: flex;
+        gap: 30PX;
+        border: 4px solid pink;
+    }
+    #SM4{
+        display: flex;
+        gap: 30px;
+        border: 4px solid pink;
+
+    }
+
+
+</style>
+
+<body>
+    
+     <center><video src="/3129977-uhd_3840_2160_30fps.mp4" height="1450px" width="1450px" controls loop autoplay muted></video></center> 
+   
+    <div id="SM1">
+    <a href="http://www.google.com">
+        <img src="/google-logo-icon-.jpg" height="100px" border="5px" 
+         >
+    </a>
+        <a href="http://www.amazon.in">
+        <img src="/-amazon-logo.jpg" height="100px" >
+    </a>
+        <a href="http://www.flipkart.com">
+        <img src="/Flipkart-Emblem.png" height="100px" >
+         </a>
+        </div><hr>
+        <div id="SM2">
+        <a href="http://www.instagram.com">
+        <img src="/-instagram-.png" height="100px" >
+    </a>
+        <a href="http://www.facebook.com">
+        <img src="/facebook.png" height="100px" >
+    </a>
+        <a href="http://twitter.com">
+        <img src="/twitter-.webp" height="100px" >
+        </a></div><hr>
+        <DIV ID="SM3">
+        <a href="http://www.whatsapp.com">
+        <img src="/_whatsapp.png" height="100px" >
+    </a>
+        <a href="http://playstore.com">
+        <img src="/-play-store-.webp" height="100px" >
+    </a>
+        <a href="http://microsoftbing.com">
+        <img src="/bing_.png" height="100px" >
+    </a></DIV><hr>
+    <DIV ID="SM4">
+        <a href="http://www.chatgpt.com">
+        <img src="/chatgpt.jpg" height="100px" >
+    </a>
+        <a href="http://www.spotify.com">
+        <img src="/spotify.jpg" height="100px" >
+    </a>
+    </a>
+        <a href="http://www.pintrest.com">
+        <img src="/Pintrest.jpg" height="100px" >
+        </a></DIV>
+
+
+
+</body>
+</html>
