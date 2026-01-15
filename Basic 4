@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    #code{
+        height: 100px;
+        width: 300px;
+        display: flex;
+        background-color: burlywood;
+    }
+    .box{
+        margin: 30px;
+        height: 50px;
+        width: 50px;
+        border: 1px solid rebeccapurple;
+    }
+    .purple{
+        background-color: purple;
+    }
+    .gray{
+        background-color: gray;
+    }
+    .pink{
+        background-color: pink;
+    }
+
+</style>
+<body>
+    <div id="code">
+        <div class="box purple"></div>
+        <div class="box gray"></div>
+        <div class="box pink"></div>
+    </div>
+    
+</body>
+</html>
