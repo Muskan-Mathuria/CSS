@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+
+<style>
+    #P1{
+        height: 250px;
+        width: 350px;
+        background-image:url(/cloud.webp);
+        background-position: center;
+        background-size: cover;
+    }
+    #P1:hover{
+        margin: 50px;
+        background-image: url(/rain\ cloud.webp);
+        border: 10px double skyblue;
+        border-radius:40px;
+        box-shadow: 3px 3px 10px purple,
+        -3px -3px 10px maroon,
+        30px 3px 50px green;
+    }
+    #P2{
+        height:250px;
+        width: 350px;
+        background-image: url(/sunrise.webp);
+        background-position: center;
+        background-size: cover;
+    }
+    #P2:hover{
+        margin: 50px;
+        background-image: url(/sunset.webp);
+        border: 10px double paleturquoise;
+        border-radius: 1rem;
+        box-shadow: 3px 3px 10px purple,
+        -3px -3px 10px maroon,
+        30px 3px 50px green;
+    }
+    #P3{
+        height:250px;
+        width: 350px;
+        background-image: url(/google-logo-icon-.jpg);
+        background-position: center;
+        background-size: cover;
+    }
+    #P3:hover{
+        margin: 50px;
+        background-image: url(/gemini.jpg);
+        border: 10px dotted gray;
+        border-radius: 100%;
+        box-shadow: 3px 3px 10px purple,
+        -3px -3px 10px maroon,
+        30px 3px 50px green;
+    }
+    #Photos{
+        display: flex;
+        gap: 10px;
+    }
+</style>
+<body>
+      <!-- nevigation bar -->
+
+      <marquee bgcolor="#5196CE" behavior="alternate" direction="right"><font size="2px"></font><H1> WELCOME!! KNOW ABOUT WEATHER 🌦️</H1></marquee>
+    <p>
+        <CENTER><TABLE border="5PX" height="20px">
+          <TR>
+            <TH>
+               <a href="#home">Home</a>||
+               <a href="#gallery">Gallery</a>||
+               <a href="#video">Video</a>||
+               <a href="#about">About</a>
+            </TH>
+          </TR> 
+        </TABLE> </CENTER>  
+    </p><hr>
+
+    <CENTER>
+        <video src="/856171-hd_1920_1080_30fps.mp4" height="600px" width="900px" controls loop autoplay muted></video>
+    </CENTER><hr>
+
+
+
+    <div id="Photos">       
+    <div id="P1"></div>
+    <br>
+    <div id="P2"></div>
+    <br>
+    <div id="P3"></div>
+    </div>
+</body>
+</html>
