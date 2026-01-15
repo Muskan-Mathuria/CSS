@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p style="color: blueviolet; border: 2px SOLID black;"> <marquee behavior="alternate" direction="left">hello</marquee>HELLO</p>
+    <P style="color: greenyellow; border: 5px double gray;">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Et atque eum laboriosam deserunt alias voluptatibus perferendis fugiat velit perspiciatis ipsam, quos assumenda magni dignissimos sunt cupiditate tenetur unde molestias! Esse.</P>
+    <p style="color: crimson; border: 8px dotted palevioletred;">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eos, neque ullam itaque repellat illo maxime animi voluptate ab ea porro corporis excepturi quidem quas provident dolores recusandae officiis quibusdam perspiciatis!</p>
+    <p style="color: darkgreen; border: 4px double cornflowerblue;">CSS(Cascading Style Sheets)</p>
+    <p style="color: crimson;  border: 6px double chocolate;">THIS IS MY FIRST CSS FILE</p>
+    <P STYLE="color: blue; border: ;">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima quaerat, error cumque aspernatur quod amet consequuntur porro delectus officiis similique fugiat dolor tenetur accusantium placeat illum qui hic, ex soluta.</P>
+    <p></p>
+</body>
+</html>
